@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormFieldApplication</string>
+    <string name="login_name_hint">E-mail (eller brugernavn)</string>
+    <string name="login_pass_hint">Adgangskode</string>
+</resources>
